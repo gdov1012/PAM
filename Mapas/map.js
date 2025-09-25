@@ -16,3 +16,5 @@ function findMe(){
           console.log(location);
     });
 }
+
+L.marker([-23.522941, -46.475899]).addTo(map);
